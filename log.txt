@@ -1,0 +1,427 @@
+********** USER REQUEST - 06/24/2019, 11:48:10 am **********
+USER REQUEST: concert-this
+USER SEARCH: u2
+********** EVENT **********
+ARTIST: U2
+DATE:   11/08/2019
+VENUE:  Mt Smart Stadium
+CITY:   Auckland
+COUNTRY:New Zealand
+********** EVENT **********
+ARTIST: U2
+DATE:   11/09/2019
+VENUE:  Mt Smart Stadium
+CITY:   Auckland
+COUNTRY:New Zealand
+********** EVENT **********
+ARTIST: U2
+DATE:   11/15/2019
+VENUE:  Marvel Stadium
+CITY:   Docklands
+COUNTRY:Australia
+********** EVENT **********
+ARTIST: U2
+DATE:   11/27/2019
+VENUE:  Optus Stadium
+CITY:   Burswood
+COUNTRY:Australia
+********** USER REQUEST - 06/24/2019, 11:53:59 am **********
+USER REQUEST: spotify-this
+USER SEARCH: perfect
+********** SONG **********
+NAME:    Perfect
+ARTIST:  Ed Sheeran
+ALBUM:   ÷ (Deluxe)
+RELEASE: 2017-03-03
+PREVIEW: https://open.spotify.com/track/0tgVpDi06FyKpA1z0VMD4v
+********** SONG **********
+NAME:    She Looks So Perfect
+ARTIST:  5 Seconds of Summer
+ALBUM:   5 Seconds Of Summer
+RELEASE: 2014-06-27
+PREVIEW: https://open.spotify.com/track/1gugDOSMREb34Xo0c1PlxM
+********** SONG **********
+NAME:    Perfect
+ARTIST:  One Direction
+ALBUM:   Made In The A.M. (Deluxe Edition)
+RELEASE: 2015-11-13
+PREVIEW: https://open.spotify.com/track/3NLnwwAQbbFKcEcV8hDItk
+********** SONG **********
+NAME:    Erase Your Social
+ARTIST:  Lil Uzi Vert
+ALBUM:   The Perfect LUV Tape
+RELEASE: 2016-08-10
+PREVIEW: https://open.spotify.com/track/4uhvMW7ly7tJil31YYscAN
+********** SONG **********
+NAME:    Perfect Duet (Ed Sheeran & Beyoncé)
+ARTIST:  Ed Sheeran
+ALBUM:   Perfect Duet (Ed Sheeran & Beyoncé)
+RELEASE: 2017-11-30
+PREVIEW: https://open.spotify.com/track/1bhUWB0zJMIKr9yVPrkEuI
+********** SONG **********
+NAME:    All I Want
+ARTIST:  Kodaline
+ALBUM:   In A Perfect World
+RELEASE: 2013-10-08
+PREVIEW: https://open.spotify.com/track/2PwXOevGUSkU8qaYZjgLq2
+********** SONG **********
+NAME:    FUCKING YOUNG / PERFECT
+ARTIST:  Tyler, The Creator
+ALBUM:   Cherry Bomb
+RELEASE: 2015-04-13
+PREVIEW: https://open.spotify.com/track/46CA1H0T1r7u5lDUtVveAh
+********** SONG **********
+NAME:    Perfect
+ARTIST:  Yung Pinch
+ALBUM:   Perfect
+RELEASE: 2019-06-14
+PREVIEW: https://open.spotify.com/track/1JmEymqQwLXvCg3sJ7gz0n
+********** SONG **********
+NAME:    Nobody's Perfect
+ARTIST:  J. Cole
+ALBUM:   Cole World: The Sideline Story
+RELEASE: 2011-09-27
+PREVIEW: https://open.spotify.com/track/6Nw1WHydftZy2joT2nTiCR
+********** SONG **********
+NAME:    Do What I Want
+ARTIST:  Lil Uzi Vert
+ALBUM:   The Perfect LUV Tape
+RELEASE: 2016-08-10
+PREVIEW: https://open.spotify.com/track/4IWGnyOHDrVZEtPWfs4s7q
+********** SONG **********
+NAME:    Held Me Down
+ARTIST:  NAV
+ALBUM:   Perfect Timing
+RELEASE: 2017-07-21
+PREVIEW: https://open.spotify.com/track/0jiW3PNiHJxOhWh9oPBJ7m
+********** SONG **********
+NAME:    Perfect To Me
+ARTIST:  Anne-Marie
+ALBUM:   Perfect To Me
+RELEASE: 2018-11-02
+PREVIEW: https://open.spotify.com/track/0DC7Zs2qvAbNK1owWQ4mlL
+********** SONG **********
+NAME:    The Boys Of Summer
+ARTIST:  Don Henley
+ALBUM:   Building The Perfect Beast
+RELEASE: 1984-01-01
+PREVIEW: https://open.spotify.com/track/4gvea7UlDkAvsJBPZAd4oB
+********** SONG **********
+NAME:    Call Me
+ARTIST:  NAV
+ALBUM:   Perfect Timing
+RELEASE: 2017-07-21
+PREVIEW: https://open.spotify.com/track/1xpXnpIpuvzpx9jz15baJF
+********** SONG **********
+NAME:    Perfect Places
+ARTIST:  Lorde
+ALBUM:   Melodrama
+RELEASE: 2017-06-16
+PREVIEW: https://open.spotify.com/track/7ARveOiD31w2Nq0n5FsSf8
+********** SONG **********
+NAME:    Perfect Rain
+ARTIST:  Tranquility Spree
+ALBUM:   Rain
+RELEASE: 2017-05-05
+PREVIEW: https://open.spotify.com/track/53QeelegqpAqMah5XNh5ef
+********** SONG **********
+NAME:    Knock You Down
+ARTIST:  Keri Hilson
+ALBUM:   In A Perfect World...
+RELEASE: 2009-01-01
+PREVIEW: https://open.spotify.com/track/58FUwmyGUqkt53YPUcm7cJ
+********** SONG **********
+NAME:    Perfect
+ARTIST:  Piano Pianissimo
+ALBUM:   Soft Piano Tunes
+RELEASE: 2017-04-26
+PREVIEW: https://open.spotify.com/track/4XIjT3aXNrg3xgAnzczJ5B
+********** SONG **********
+NAME:    F**kin' Perfect
+ARTIST:  P!nk
+ALBUM:   Greatest Hits...So Far!!!
+RELEASE: 2010-11-12
+PREVIEW: https://open.spotify.com/track/37Veo3TsREFZKvfZ0CaI4S
+********** SONG **********
+NAME:    Perfect Imperfection
+ARTIST:  Kevin Gates
+ALBUM:   Luca Brasi 2: Gangsta Grillz
+RELEASE: 2014-12-15
+PREVIEW: https://open.spotify.com/track/18Py7Lu1re4wbeisFAEHi7
+********** USER REQUEST - 06/24/2019, 11:56:05 am **********
+USER REQUEST: spotify-this
+USER SEARCH: be like that
+********** SONG **********
+NAME:    Be Like That
+ARTIST:  3 Doors Down
+ALBUM:   The Better Life
+RELEASE: 2000
+PREVIEW: https://open.spotify.com/track/3PbHle8KhJp6GuO1jLdEmQ
+********** SONG **********
+NAME:    Be Like That
+ARTIST:  Yung Bleu
+ALBUM:   Investments 4
+RELEASE: 2017-12-13
+PREVIEW: https://open.spotify.com/track/5xNGCr7cvnSAGpUh838UD5
+********** SONG **********
+NAME:    Be Like That
+ARTIST:  3 Doors Down
+ALBUM:   The Greatest Hits
+RELEASE: 2012-01-01
+PREVIEW: https://open.spotify.com/track/4dd4mORC15Nrgq02evPdfL
+********** SONG **********
+NAME:    Be Like That
+ARTIST:  Billionaire Bacon
+ALBUM:   Be Like That
+RELEASE: 2018-12-26
+PREVIEW: https://open.spotify.com/track/00P1bclSlDgHx0fbax8W1e
+********** SONG **********
+NAME:    Be Like That
+ARTIST:  J. Human
+ALBUM:   Be Like That
+RELEASE: 2018-10-26
+PREVIEW: https://open.spotify.com/track/6KBTJDOZnC6FBc0jvc420T
+********** SONG **********
+NAME:    Y? (Be Like That) - Jay Dee Remix
+ARTIST:  The Pharcyde
+ALBUM:   Labcabincalifornia (Deluxe Edition)
+RELEASE: 1995-01-01
+PREVIEW: https://open.spotify.com/track/7dE5rfjZoPtLHgV5i5eseh
+********** SONG **********
+NAME:    I Want To Be Loved Like That - Live
+ARTIST:  Shenandoah
+ALBUM:   I Want To Be Loved Like That (Live)
+RELEASE: 2018-02-16
+PREVIEW: https://open.spotify.com/track/02QBpa6yGuf2PNU9AXv5SC
+********** SONG **********
+NAME:    I Wanna Be Loved Like That
+ARTIST:  The Chapmans
+ALBUM:   Grown Up (A Revisionist History)
+RELEASE: 2010-02-09
+PREVIEW: https://open.spotify.com/track/09tfise8jtolFu47PyF7FZ
+********** SONG **********
+NAME:    (I Do) Like We Do
+ARTIST:  Harry Connick, Jr.
+ALBUM:   That Would Be Me
+RELEASE: 2015-10-23
+PREVIEW: https://open.spotify.com/track/4dp0sJ4b3879W1dyH6gbcy
+********** SONG **********
+NAME:    Be Like That
+ARTIST:  3 Doors Down
+ALBUM:   The Greatest Hits
+RELEASE: 2012-01-01
+PREVIEW: https://open.spotify.com/track/1UcWNtdPvWzKBsley8vixH
+********** SONG **********
+NAME:    Never Be Like You
+ARTIST:  Flume
+ALBUM:   NOW That's What I Call Music!, Vol. 60 (Deluxe Edition)
+RELEASE: 2016-11-04
+PREVIEW: https://open.spotify.com/track/59UFptlbYUzRUJ9K1q0r0N
+********** SONG **********
+NAME:    do me like that
+ARTIST:  Kalin White
+ALBUM:   would you still be there?
+RELEASE: 2018-07-20
+PREVIEW: https://open.spotify.com/track/3bqdADJIGdH81HuAxRPhNw
+********** SONG **********
+NAME:    I Want To Be Loved Like That - The Voice Performance
+ARTIST:  Gyth Rigdon
+ALBUM:   The Season 16 Collection (The Voice Performance)
+RELEASE: 2019-05-22
+PREVIEW: https://open.spotify.com/track/78XXnt0I4X1oWJTBx8tQjT
+********** SONG **********
+NAME:    I Like That
+ARTIST:  Varus Bell
+ALBUM:   Truth Be Told
+RELEASE: 2019-04-16
+PREVIEW: https://open.spotify.com/track/2LeaLtVMPX5s2l4vzdKP1o
+********** SONG **********
+NAME:    I Want To Be Loved Like That - Live
+ARTIST:  Shenandoah
+ALBUM:   Reloaded
+RELEASE: 2018-03-16
+PREVIEW: https://open.spotify.com/track/5yS8ozo8YeyvonCyGGZQxF
+********** SONG **********
+NAME:    Be Like That (Remix)
+ARTIST:  Bobby Raps
+ALBUM:   Be Like That (Remix)
+RELEASE: 2018-04-02
+PREVIEW: https://open.spotify.com/track/6UMz5U8jvLiAoF5UBFK0lX
+********** SONG **********
+NAME:    Be Like That
+ARTIST:  Jerome
+ALBUM:   Be Like That
+RELEASE: 2019-02-08
+PREVIEW: https://open.spotify.com/track/4zTIC0Sycl8jICSR1a3F04
+********** SONG **********
+NAME:    That's How It Still Oughta Be
+ARTIST:  Trent Tomlinson
+ALBUM:   A Guy Like Me - EP
+RELEASE: 2009-01-01
+PREVIEW: https://open.spotify.com/track/795VSQCS3cn8VPoI6dSDNo
+********** SONG **********
+NAME:    Be Like That
+ARTIST:  Trafton
+ALBUM:   Be Like That
+RELEASE: 2019-05-10
+PREVIEW: https://open.spotify.com/track/1iqQqrBf2KWG85Ei2lMd5B
+********** SONG **********
+NAME:    (I Like It When You) Smile
+ARTIST:  Harry Connick, Jr.
+ALBUM:   That Would Be Me
+RELEASE: 2015-10-23
+PREVIEW: https://open.spotify.com/track/1O0iqqO2rWSjmnewd4xsMo
+********** USER REQUEST - 06/24/2019, 11:58:28 am **********
+USER REQUEST: movie-this
+USER SEARCH: spiderman homecoming
+Movie not found!
+********** USER REQUEST - 06/24/2019, 11:59:03 am **********
+USER REQUEST: movie-this
+USER SEARCH: avengers infinity war
+********** MOVIE **********
+TITLE:           Avengers: Infinity War
+RATED:           PG-13
+IMDB RATING:     8.5
+ROTTEN TOMATOES: 85%
+PLOT:            The Avengers and their allies must be willing to sacrifice all in an attempt to defeat the powerful Thanos before his blitz of devastation and ruin puts an end to the universe.
+ACTORS:          Robert Downey Jr., Chris Hemsworth, Mark Ruffalo, Chris Evans
+RELEASE:         2018
+COUNTRY:         USA
+LANGUAGE:        English
+********** USER REQUEST - 06/24/2019, 12:00:52 pm **********
+USER REQUEST: surprise-me-this
+********** SONG **********
+NAME:    I Want It That Way
+ARTIST:  Backstreet Boys
+ALBUM:   The Hits--Chapter One
+RELEASE: 2001-10-23
+PREVIEW: https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6
+********** SONG **********
+NAME:    I Want It That Way
+ARTIST:  Backstreet Boys
+ALBUM:   Millennium
+RELEASE: 1999-05-18
+PREVIEW: https://open.spotify.com/track/47BBI51FKFwOMlIiX6m8ya
+********** SONG **********
+NAME:    I Want It That Way - Reimagined
+ARTIST:  Backstreet Boys
+ALBUM:   I Want It That Way (Reimagined)
+RELEASE: 2019-05-17
+PREVIEW: https://open.spotify.com/track/62KnDRUq6CBcT7Bqb9IHKV
+********** SONG **********
+NAME:    I Want It That Way
+ARTIST:  Anthem Lights
+ALBUM:   Covers Part IV
+RELEASE: 2015-07-17
+PREVIEW: https://open.spotify.com/track/3Ww6kEWxLh4Ub4WPJ9hMtA
+********** SONG **********
+NAME:    I Want It That Way
+ARTIST:  Mick Jensen
+ALBUM:   I Want It That Way
+RELEASE: 2018-11-22
+PREVIEW: https://open.spotify.com/track/0ympGdYdVlZ8zo6irdjMvd
+********** SONG **********
+NAME:    I Want It That Way
+ARTIST:  Jess and Gabriel
+ALBUM:   Under the Covers, Vol. 3
+RELEASE: 2019-04-23
+PREVIEW: https://open.spotify.com/track/52FgeDoHydoWZbFGgxwCdH
+********** SONG **********
+NAME:    I Want It That Way
+ARTIST:  Tyler and Mark
+ALBUM:   Beautiful Dreams
+RELEASE: 2018-08-28
+PREVIEW: https://open.spotify.com/track/7k52T0b1v9ktm2gJwlO5yy
+********** SONG **********
+NAME:    Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+ARTIST:  "Weird Al" Yankovic
+ALBUM:   Poodle Hat
+RELEASE: 2003-05-20
+PREVIEW: https://open.spotify.com/track/4vHb50VkxDzHYwLiHfWczK
+********** SONG **********
+NAME:    I Want It That Way
+ARTIST:  Dynamite Boy
+ALBUM:   Punk Goes Pop
+RELEASE: 2001
+PREVIEW: https://open.spotify.com/track/0X5ygHsca3pJ3KErPsXhGc
+********** SONG **********
+NAME:    I Want It That Way
+ARTIST:  Backstreet Boys
+ALBUM:   90 Sweet 90s Hits!
+RELEASE: 2014-06-10
+PREVIEW: https://open.spotify.com/track/1zCiqxhampG4dcC7HEqPu5
+********** SONG **********
+NAME:    Bye Bye Bye / I Want It That Way (Glee Cast Version)
+ARTIST:  Glee Cast
+ALBUM:   Bye Bye Bye / I Want It That Way (Glee Cast Version)
+RELEASE: 2013-03-19
+PREVIEW: https://open.spotify.com/track/3t7m7AzV2ntuI9fIT6KREP
+********** SONG **********
+NAME:    I Want It That Way
+ARTIST:  Steel Panther
+ALBUM:   I Want It That Way
+RELEASE: 2010-01-01
+PREVIEW: https://open.spotify.com/track/0448cNUvZGCAlUpIPO5kdY
+********** SONG **********
+NAME:    I Want It That Way
+ARTIST:  Backstreet Boys
+ALBUM:   NKOTBSB
+RELEASE: 2011-05-24
+PREVIEW: https://open.spotify.com/track/2KMwtsWwL5QDtSpm814tju
+********** SONG **********
+NAME:    I Want It That Way
+ARTIST:  Boyce Avenue
+ALBUM:   Cover Sessions, Vol. 2
+RELEASE: 2012-07-24
+PREVIEW: https://open.spotify.com/track/16COzZ7jCVn3O8b8ZgviOx
+********** SONG **********
+NAME:    I Want It That Way
+ARTIST:  Scary Pockets
+ALBUM:   Nu Funk
+RELEASE: 2017-11-13
+PREVIEW: https://open.spotify.com/track/4IWQXV01Lp0wsXCXo09EBr
+********** SONG **********
+NAME:    I Want It That Way
+ARTIST:  Manuel Costa
+ALBUM:   I Want It That Way
+RELEASE: 2017-07-14
+PREVIEW: https://open.spotify.com/track/4Sp4RxkWukxqJykl0ySNQi
+********** SONG **********
+NAME:    I Want It That Way
+ARTIST:  Love Hits On Piano
+ALBUM:   Timeless Love
+RELEASE: 2019-04-19
+PREVIEW: https://open.spotify.com/track/6o4G9XVj3ikl0W1BNUlH4u
+********** SONG **********
+NAME:    I Want It That Way
+ARTIST:  Yshop
+ALBUM:   I Want It That Way
+RELEASE: 2018-03-13
+PREVIEW: https://open.spotify.com/track/0sRt44NXdLVqYeD2TAm1A5
+********** SONG **********
+NAME:    I Want It That Way
+ARTIST:  Scott Bradlee's Postmodern Jukebox
+ALBUM:   Selfies on Kodachrome
+RELEASE: 2015-01-13
+PREVIEW: https://open.spotify.com/track/1Le3uYU5NU9cXXtYeSWnEM
+********** SONG **********
+NAME:    Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+ARTIST:  "Weird Al" Yankovic
+ALBUM:   The Essential "Weird Al" Yankovic
+RELEASE: 2009
+PREVIEW: https://open.spotify.com/track/1vaico2C72imYowF4Kv04V
+********** USER REQUEST - 06/24/2019, 12:02:24 pm **********
+USER REQUEST: movie-this
+USER SEARCH: 
+May I suggest Mr Nobody?
+It's on Netflix!
+********** MOVIE **********
+TITLE:           Mr. Nobody
+RATED:           R
+IMDB RATING:     7.8
+ROTTEN TOMATOES: 67%
+PLOT:            A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+ACTORS:          Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+RELEASE:         2009
+COUNTRY:         Belgium, Germany, Canada, France, USA, UK
+LANGUAGE:        English, Mohawk
