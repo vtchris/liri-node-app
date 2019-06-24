@@ -27,8 +27,14 @@ Language Interpretation and Recognition Interface is a command line app to searc
 
 Open a command terminal and navigate to the folder containing the liri.js file in it. From here type `node liri` as shown below. 
 
-![](assets/images/start.jpg)
+![](assets/images/start.jpg | width=250)
+
+The menu shown below with be displayed. Use the up-down arrows to select the desired command.
+
 ![](assets/images/menu.jpg)
+
+With the exception of surprise-me-this, you will be asked to enter search criteria. In the following example we are searching for concerts (using the Bands In Town API) for the group U2.
+
 ![](assets/images/concert-this-u2.jpg)
 ![](assets/images/concert-this-output.jpg)
 ![](assets/images/movie-this-avengers.jpg)
