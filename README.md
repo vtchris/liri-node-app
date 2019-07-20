@@ -7,7 +7,7 @@ This includes:
 <ul>
     <li>Requiring dependencies.</li>
     <li>Calling APIs outside of the browser.</li>
-    <li>storing keys in private files that are not pushed to github.</li>
+    <li>Storing keys in private files that are not pushed to github.</li>
     <li>Using file readers and writers.</li>
     <li>Using Inquirer for user input.</li>
 </ul>

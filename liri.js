@@ -88,6 +88,8 @@ function search_concerts(bandName) {
     axios.get("https://rest.bandsintown.com/artists/" + bandName + "/events?app_id=" + bandsInTownKey).then(
         function (response) {
 
+            console.log(response.data)
+
             for (var i = 0; i < response.data.length; i++) {
 
                 let header = "********** EVENT **********"
